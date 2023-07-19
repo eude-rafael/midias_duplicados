@@ -1,9 +1,6 @@
 import os
 import time
 
-
-
-
 class VerificadorDeArquivos:
     def __init__(self, pasta, intervalo_verificacao, acao):
         self.pasta = pasta
